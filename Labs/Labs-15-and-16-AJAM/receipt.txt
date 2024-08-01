@@ -1,0 +1,31 @@
+YOUR RECEIPT
+*************************
+Item Cost: 1.25
+
+Money Recieved: 1.9
+
+Change:
+Quarters: 2
+Dimes: 1
+Nickels: 0
+Pennies: 4
+
+YOUR RECEIPT
+*************************
+Item Cost: 1.25
+
+Money Recieved: 2.6
+
+Change:
+Quarters: 5
+Dimes: 1
+Nickels: 0
+Pennies: 0
+
+YOUR RECEIPT
+*************************
+Item Cost: 2
+
+Money Recieved: 2
+
+Change: No Change
